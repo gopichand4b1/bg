@@ -1,0 +1,19 @@
+DHTML stands for DYNAMIC HTML and it is a combination of HTML,CSS,JavaScript and 
+DOM(Document Object Model).It allows different scripting languages in webpage to change
+ their 'variables'.The browsers that support the DHTML are NetScape navigator and
+ Internet Explorer.It is used to make Dynamic Content.
+1.HTML-HTML stands for Hyper Text Markup Language and it creates the structure of web page
+
+2.CSS-CSS stands for Cascading Style Sheets and it adds the styles to the web page
+
+3.JS-JS stands for JavaScript and it is an Scritping Language and it also have cookies collection
+ to detremine the users needs
+
+4.DOC-DOM stands for Document Object Model and the disadvantage is most of the browsers doesn't
+support the DOM
+
+DHTML:-
+1.It is used to create Dynamic web page and it is used to create animations,games,applications
+2.HTML is used to create static web pages while DHTML is used to create Dynamic web pages  
+3.HTML Only uses one code while DHTML uses different languages like HTML,CSS and JavaScript 
+ 
